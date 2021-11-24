@@ -2,6 +2,10 @@
   height: 400px;
   background-color: lightslategray;
 }
+
+.header h1 {
+  text-align: center;
+}
 .container{
   display: grid;
   padding: 20px;
